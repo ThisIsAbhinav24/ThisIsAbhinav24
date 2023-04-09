@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisabhinav24&label=Profile%20views&color=0e75b6&style=flat" alt="thisisabhinav24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisisabhinav24" alt="thisisabhinav24" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/abhinav24here" target="blank"><img src="https://img.shields.io/twitter/follow/abhinav24here?logo=twitter&style=for-the-badge" alt="abhinav24here" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript**
